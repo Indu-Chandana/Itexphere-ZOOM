@@ -11,7 +11,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const path = require('path');
 
-mongoose.connect('mongodb+srv://user:user123@cluster001.ibp2i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority').then(
+mongoose.connect('.....................................Mongo_URL...............................................').then(
     () => console.log('DB connected')
 ).catch(err => console.log(err))
 
