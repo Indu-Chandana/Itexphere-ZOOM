@@ -31,7 +31,7 @@ function Login() {
                     <h1>Sign in to Free4talk</h1>
                 </div>
                 <GoogleLogin
-                    clientId="988836340451-pqpi4evnl7qut2h2b647p5rttkjrqbg0.apps.googleusercontent.com"
+                    clientId="...............................................//////////................................................."
                     render={renderProps => (
                         <Button onClick={renderProps.onClick} disabled={renderProps.disabled}>Sign In With Google</Button>
                     )}
